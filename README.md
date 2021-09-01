@@ -3,7 +3,7 @@ They all are heptagons with 326CE5  and white text as their color with Helvetica
 and also from 
 <img width="1314" alt="kfserving" src="https://user-images.githubusercontent.com/79689323/131740246-1146e429-a0d1-43a8-862a-687e835fcd8b.png">
 [image source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kubeflow.org%2Fdocs%2Fcomponents%2Fkfserving%2Fkfserving%2F&psig=AOvVaw1lovTQ89WKXc1cCcmFXBI0&ust=1630618299882000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCPjr7tXc3vICFQAAAAAdAAAAABAD)
-which is the most known picture of KF serving and it suggests KF serving is made upon istio , Knative and Kubernetes 
+which is the most known picture of KF serving and it suggests KF serving is made on top of istio , Knative and Kubernetes 
 
 Logos:-
 
