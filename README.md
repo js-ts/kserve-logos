@@ -17,9 +17,13 @@ Logos:-
 
 ![simple k serve](https://user-images.githubusercontent.com/79689323/131741435-914440fb-1770-41d4-9c66-55f16af9a98d.png)
 
-4. New logo with cloud predictor
+4. cloud predictor
 
  ![cloud predictor](https://user-images.githubusercontent.com/79689323/131919506-83138d22-b2fe-445d-858a-fa145ed791c8.png)
+
+5. cloud predictor with KServe
+
+![capital KServe cloud predictor](https://user-images.githubusercontent.com/79689323/132041297-c71b2cb1-bffc-4064-8e46-ec5d39ebb1a1.png)
 
 
 If anybody wants to add their own to this three can add or submit a pr , should follow the serial order for voting purposes
