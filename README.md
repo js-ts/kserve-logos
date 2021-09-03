@@ -1,5 +1,4 @@
-Hi everyone , I was looking to start contributing to kserve from today for that I've made 3 logos for kserve
-They all are heptagons with 326CE5  and white text as their color with Helvetica font , the inspiration for this is drawn from the Kubernetes logo
+Hi everyone , I've made logos for kserve They all are heptagons with 326CE5  and white text as their color with Helvetica font , the inspiration for this is drawn from the Kubernetes logo
 and also from 
 <img width="1314" alt="kfserving" src="https://user-images.githubusercontent.com/79689323/131740246-1146e429-a0d1-43a8-862a-687e835fcd8b.png">
 [image source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kubeflow.org%2Fdocs%2Fcomponents%2Fkfserving%2Fkfserving%2F&psig=AOvVaw1lovTQ89WKXc1cCcmFXBI0&ust=1630618299882000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCPjr7tXc3vICFQAAAAAdAAAAABAD)
